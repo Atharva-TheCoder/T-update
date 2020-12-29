@@ -1,0 +1,29 @@
+echo " "
+cd $HOME
+clear
+echo " "
+echo '
+                                                                                      
+_|    _|                  _|              _|      _|                                  
+_|    _|  _|_|_|      _|_|_|    _|_|_|  _|_|_|_|      _|_|_|      _|_|_|              
+_|    _|  _|    _|  _|    _|  _|    _|    _|      _|  _|    _|  _|    _|              
+_|    _|  _|    _|  _|    _|  _|    _|    _|      _|  _|    _|  _|    _|              
+  _|_|    _|_|_|      _|_|_|    _|_|_|      _|_|  _|  _|    _|    _|_|_|  _|  _|  _|  
+          _|                                                          _|              
+          _|                                                      _|_|                   ' | lolcat
+echo " "
+sleep 2.0
+echo " "
+apt update -y
+echo " "
+apt upgrade -y
+echo " "
+sleep 1.0
+clear
+echo " "
+echo " "
+echo '           Termux has been successfully updated...     '
+sleep 2.0
+clear
+
+
